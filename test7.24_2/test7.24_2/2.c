@@ -12,6 +12,7 @@ int main()
 		x = x / 10;
 		n++;
 
+
 	}
 	printf("%d",n);
 
