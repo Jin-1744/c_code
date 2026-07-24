@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Qi\\c\u8BED\u8A00\\test7.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B13B3E05-23A8-4EFC-9A5A-FD265F8206AB}|test7.24\\test7.24.vcxproj|D:\\Qi\\c\u8BED\u8A00\\test7.24\\test7.24\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B13B3E05-23A8-4EFC-9A5A-FD265F8206AB}|test7.24\\test7.24.vcxproj|solutionrelative:test7.24\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13B3E05-23A8-4EFC-9A5A-FD265F8206AB}|test7.24\\test7.24.vcxproj|D:\\Qi\\c\u8BED\u8A00\\test7.24\\test7.24\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B13B3E05-23A8-4EFC-9A5A-FD265F8206AB}|test7.24\\test7.24.vcxproj|solutionrelative:test7.24\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.c",
+              "DocumentMoniker": "D:\\Qi\\c\u8BED\u8A00\\test7.24\\test7.24\\2.c",
+              "RelativeDocumentMoniker": "test7.24\\2.c",
+              "ToolTip": "D:\\Qi\\c\u8BED\u8A00\\test7.24\\test7.24\\2.c*",
+              "RelativeToolTip": "test7.24\\2.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-24T10:22:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.c",
+              "DocumentMoniker": "D:\\Qi\\c\u8BED\u8A00\\test7.24\\test7.24\\1.c",
+              "RelativeDocumentMoniker": "test7.24\\1.c",
+              "ToolTip": "D:\\Qi\\c\u8BED\u8A00\\test7.24\\test7.24\\1.c",
+              "RelativeToolTip": "test7.24\\1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-24T09:24:37.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
