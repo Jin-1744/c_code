@@ -16,7 +16,7 @@ void InitBoard(char board[ROWS][COLS], int rows, int cols, char ret)
 {
 	int x = 0;
 	int y = 0;
-	for (x = 0;x < rows;x++)
+	for (x = 0;x < rows;x++) 
 	{
 		for (y = 0;y < cols;y++)
 		{
